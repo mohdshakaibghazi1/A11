@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Day9\A11\A11\A11\bin\Debug\A11.exe.config
+C:\Users\moham\source\repos\Day9\A11\A11\A11\bin\Debug\A11.exe
+C:\Users\moham\source\repos\Day9\A11\A11\A11\bin\Debug\A11.pdb
+C:\Users\moham\source\repos\Day9\A11\A11\A11\obj\Debug\A11.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day9\A11\A11\A11\obj\Debug\A11.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day9\A11\A11\A11\obj\Debug\A11.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day9\A11\A11\A11\obj\Debug\A11.exe
+C:\Users\moham\source\repos\Day9\A11\A11\A11\obj\Debug\A11.pdb
